@@ -27,10 +27,4 @@ public class HitController : MonoBehaviour
             yield return new WaitForSeconds(0.15f);
         }
     }
-    private void Update()
-    {
-
-
-    }
-
 }
