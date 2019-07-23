@@ -1,6 +1,6 @@
 # [Material Capture Shader Test Project]
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1581929a4f3e4298a40fd3934939a6d5)](https://app.codacy.com/app/gaebhi/ShaderToyProject?utm_source=github.com&utm_medium=referral&utm_content=gaebhi/ShaderToyProject&utm_campaign=Badge_Grade_Dashboard)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/70ea28bc7bcc4478a1ed19698a01661a)](https://www.codacy.com/app/gaebhi/ShaderToyProject?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=gaebhi/ShaderToyProject&amp;utm_campaign=Badge_Grade)
 
 ## 1.설명
 * Material Capture Shader 제작
