@@ -11,7 +11,7 @@
 ![graph](https://blogfiles.pstatic.net/MjAxOTA3MjNfMjUx/MDAxNTYzODU4MzU5Mjc1.J2QA8YWkGTLb-s8Xbbc2v_HTY0gM5kyEha-5yysWQdQg.kfiggRgfAE0HcUAcsrMZuYazM0bhcBHPmZqxi_rNMyMg.PNG.gaebhi/0graph.png?type=w1 "graph")
 
 * 사용 예시.gif (왼쪽부터 차례로 기본 - 피격 시 - 빙결 - 석화)
-![sample](https://blogfiles.pstatic.net/MjAxOTA3MjNfMiAg/MDAxNTYzODU5MzIwMjQ0.X7EqmMLTIlAzxdo2dflJS-oLVFKptJ7viNnoSGPvgu8g.Ou1qFW7Ev1kJrW_QfDER5MHmlMqpOU3-pWgzdj3YPDcg.GIF.gaebhi/5sampleloop.gif?type=w1 "sample")
+![sample](https://blogfiles.pstatic.net/MjAxOTA3MjNfMTA0/MDAxNTYzODU5OTA0Nzcz.7Cp0u3l_np2jcVnFPP48wfGCClVkKWgWGgWEEizpdxsg.EKENiLdKrzbhbw-B3nICuORIraivU4rvrLTHe_nteTgg.GIF.gaebhi/5sampleloop-min.gif?type=w1 "sample")
 
 * 기본
 
