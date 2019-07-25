@@ -7,6 +7,8 @@
 * Hit 값 조절로 피격 효과 구현
 * Color 값 조절로 상태 이상 효과 구현
 
+* Client : Unity 2017+
+* Assets : Amplify Shader
 
 ## 2. 이미지
 * Shader graph (Amplify shader)
