@@ -15,6 +15,7 @@
 ![graph](https://blogfiles.pstatic.net/MjAxOTA3MzBfMTA3/MDAxNTY0NDQ2ODE3Njc1.qo0uVrYoVcSpsiEFDP82MYXr2s5lY-CCPXPwAt-FIMog.jTN3drLO2j_SHHKs92IOKpwVivLnthfne9kIXf0jSZEg.PNG.gaebhi/amp.png "graph")
 
 * 사용 예시.gif (왼쪽부터 차례로 기본 - 피격 시 - 빙결 - 석화)
+
 ![sample](https://blogfiles.pstatic.net/MjAxOTA3MzBfMTEw/MDAxNTY0NDQ2ODE3OTk3.oxP8ydM2GqsL6lKCkOTi0t0OuLk4q9_5maDRRc89Vakg.ilNIgjuQN6Rogx-iZKoeCDgc0aV5uqwV8ysy7yolBnMg.GIF.gaebhi/imageedit_7_7600443314.gif "sample")
 
 * 기본
