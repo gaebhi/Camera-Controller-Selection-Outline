@@ -12,10 +12,10 @@
 
 ## 2. 이미지
 * Shader graph (Amplify shader)
-![graph](https://blogfiles.pstatic.net/MjAxOTA3MjNfMjUx/MDAxNTYzODU4MzU5Mjc1.J2QA8YWkGTLb-s8Xbbc2v_HTY0gM5kyEha-5yysWQdQg.kfiggRgfAE0HcUAcsrMZuYazM0bhcBHPmZqxi_rNMyMg.PNG.gaebhi/0graph.png?type=w1 "graph")
+![graph](https://blogfiles.pstatic.net/MjAxOTA3MzBfMTA3/MDAxNTY0NDQ2ODE3Njc1.qo0uVrYoVcSpsiEFDP82MYXr2s5lY-CCPXPwAt-FIMog.jTN3drLO2j_SHHKs92IOKpwVivLnthfne9kIXf0jSZEg.PNG.gaebhi/amp.png "graph")
 
 * 사용 예시.gif (왼쪽부터 차례로 기본 - 피격 시 - 빙결 - 석화)
-![sample](https://blogfiles.pstatic.net/MjAxOTA3MjNfMTQ2/MDAxNTYzODYwMzI2MTQ0.4kZpSLtZ_fZS6b4b8r7EE9GSeu74rjzTNSfNy3eV0D0g.L13-wk9FWE_777-l9fgIqChKQE5R2TTQRxKbPGeEl6kg.GIF.gaebhi/5sampleloop-min.gif?type=w1 "sample")
+![sample](https://blogfiles.pstatic.net/MjAxOTA3MzBfMTEw/MDAxNTY0NDQ2ODE3OTk3.oxP8ydM2GqsL6lKCkOTi0t0OuLk4q9_5maDRRc89Vakg.ilNIgjuQN6Rogx-iZKoeCDgc0aV5uqwV8ysy7yolBnMg.GIF.gaebhi/imageedit_7_7600443314.gif "sample")
 
 * 기본
 
