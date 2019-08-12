@@ -11,7 +11,7 @@
 
 ## 2. 이미지
 * 적용 예시
-
+왼쪽은 normal값 이용한 쉐이더 오른쪽은 tangent값 이용한 
 ![scene](https://blogfiles.pstatic.net/MjAxOTA4MTJfMjUy/MDAxNTY1NTk0NDc0MDIw.970cxN4zPCA2f5PbHrE2MPPmPx0oJ_muZhNyfRDY-vQg.8oxQ1djIHYKxaixAYiInytBLZp5AWoLZV5C8cgo_XFAg.PNG.gaebhi/outline.png?type=w1 "graph")
 
 * 사용 예시
