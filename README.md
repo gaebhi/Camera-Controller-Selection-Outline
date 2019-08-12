@@ -1,17 +1,18 @@
-# [Material Capture Shader Test Project]
+# [Selection Outline]
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/70ea28bc7bcc4478a1ed19698a01661a)](https://www.codacy.com/app/gaebhi/ShaderToyProject?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=gaebhi/ShaderToyProject&amp;utm_campaign=Badge_Grade)
 
 ## 1.설명
-* Material Capture Shader 제작
-* Hit 값 조절로 피격 효과 구현
-* Color 값 조절로 상태 이상 효과 구현
-
+* Selection Outline Shader 제작
+  - Normal 값 이용해서 아웃라인 그리는 쉐이더(각진 부분에 아웃라인이 끊기는 현상 발생)
+  - Tangent 값 이용해서 아웃라인 그리는 쉐이더
+    (각진 오브젝트들의 노말값의 평균을 구해 탄젠트 값에 넣어줌)
+    (탄젠트 값에 넣어주는 이유 : 노말값에 덮어쓸 경우 빛의 방향과 노말값의 내적으로 빛을 계산하기 때문에 각진 부분이 어두워지는 현상 발생)
+    
 * Client : Unity 2017+
-* Assets : Amplify Shader
 
 ## 2. 이미지
-* Shader graph (Amplify shader)
+* 적용 예시
 ![graph](https://blogfiles.pstatic.net/MjAxOTA3MzBfMTA3/MDAxNTY0NDQ2ODE3Njc1.qo0uVrYoVcSpsiEFDP82MYXr2s5lY-CCPXPwAt-FIMog.jTN3drLO2j_SHHKs92IOKpwVivLnthfne9kIXf0jSZEg.PNG.gaebhi/amp.png "graph")
 
 * 사용 예시.gif (왼쪽부터 차례로 기본 - 피격 시 - 빙결 - 석화)
