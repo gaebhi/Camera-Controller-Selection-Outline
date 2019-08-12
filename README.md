@@ -13,7 +13,8 @@
 * 적용 예시
 
 ![scene](https://blogfiles.pstatic.net/MjAxOTA4MTJfMjUy/MDAxNTY1NTk0NDc0MDIw.970cxN4zPCA2f5PbHrE2MPPmPx0oJ_muZhNyfRDY-vQg.8oxQ1djIHYKxaixAYiInytBLZp5AWoLZV5C8cgo_XFAg.PNG.gaebhi/outline.png?type=w1 "graph")
- - 왼쪽은 normal값 이용한 쉐이더 오른쪽은 tangent값 이용한 
+ - 왼쪽은 normal값 이용한 쉐이더 오른쪽은 tangent값 이용한 쉐이더
+ 
 * 사용 예시
 
 ![sample](https://blogfiles.pstatic.net/MjAxOTA4MTJfMTIy/MDAxNTY1NTk0NDczNjk5.Dfo0WwJlpE1zpKVZtSZPh3YuGiZSaZ2coM5YRyEu6pwg.6IfA7OgQ2c4su13hSmGdc_00bOpb3llbsdzh2RhsARog.PNG.gaebhi/how_to_make_smooth_normal.png?type=w1 "sample")
