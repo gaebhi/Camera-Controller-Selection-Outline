@@ -1,7 +1,5 @@
 # [Selection Outline]
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/70ea28bc7bcc4478a1ed19698a01661a)](https://www.codacy.com/app/gaebhi/ShaderToyProject?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=gaebhi/ShaderToyProject&amp;utm_campaign=Badge_Grade)
-
 ## 1.설명
 * Selection Outline Shader 제작
   - Normal 값 이용해서 아웃라인 그리는 쉐이더(각진 부분에 아웃라인이 끊기는 현상 발생)
@@ -13,6 +11,7 @@
 
 ## 2. 이미지
 * 적용 예시
+
 ![scene](https://blogfiles.pstatic.net/MjAxOTA4MTJfMjUy/MDAxNTY1NTk0NDc0MDIw.970cxN4zPCA2f5PbHrE2MPPmPx0oJ_muZhNyfRDY-vQg.8oxQ1djIHYKxaixAYiInytBLZp5AWoLZV5C8cgo_XFAg.PNG.gaebhi/outline.png?type=w1 "graph")
 
 * 사용 예시
