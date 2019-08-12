@@ -13,26 +13,9 @@
 
 ## 2. 이미지
 * 적용 예시
-![graph](https://blogfiles.pstatic.net/MjAxOTA3MzBfMTA3/MDAxNTY0NDQ2ODE3Njc1.qo0uVrYoVcSpsiEFDP82MYXr2s5lY-CCPXPwAt-FIMog.jTN3drLO2j_SHHKs92IOKpwVivLnthfne9kIXf0jSZEg.PNG.gaebhi/amp.png "graph")
+![scene](https://blogfiles.pstatic.net/MjAxOTA4MTJfMjUy/MDAxNTY1NTk0NDc0MDIw.970cxN4zPCA2f5PbHrE2MPPmPx0oJ_muZhNyfRDY-vQg.8oxQ1djIHYKxaixAYiInytBLZp5AWoLZV5C8cgo_XFAg.PNG.gaebhi/outline.png?type=w1 "graph")
 
-* 사용 예시.gif (왼쪽부터 차례로 기본 - 피격 시 - 빙결 - 석화)
+* 사용 예시
 
-![sample](https://blogfiles.pstatic.net/MjAxOTA3MzBfMTEw/MDAxNTY0NDQ2ODE3OTk3.oxP8ydM2GqsL6lKCkOTi0t0OuLk4q9_5maDRRc89Vakg.ilNIgjuQN6Rogx-iZKoeCDgc0aV5uqwV8ysy7yolBnMg.GIF.gaebhi/imageedit_7_7600443314.gif "sample")
-
-* 기본
-
-![default](https://blogfiles.pstatic.net/MjAxOTA3MjNfMjU2/MDAxNTYzODU4MzU5NTM4.tT6WTf9toz-S4-roP0nsL0vJqrqrLJiha5tT6hq1u6wg.rL_4ZFOwevXZIjnkY3OeAx4MSXgofgwpjDapRc_JiVgg.PNG.gaebhi/1default.png?type=w1 "default")
-
-* 피격
-
-![hit](https://blogfiles.pstatic.net/MjAxOTA3MjNfMTY0/MDAxNTYzODU4MzU5Nzc5.qYF8s4AUheD4hFLWJ6V-kwUhep62dCmfdZ7NeQmFFGAg.SHnsZwcX5SZRAzk0CFo5bJzOoXT68_s77bQqFy0uLTog.PNG.gaebhi/2hit.png?type=w1 "hit")
-
-* 빙결
-
-![freeze](https://blogfiles.pstatic.net/MjAxOTA3MjNfMTM4/MDAxNTYzODU4MzYwMDI4.HNS-RdKt_eX2wrO0r74BHEoTXh5bme0nQ0TuHuIP1-4g.L8T3byfR2LR0g3uTzJYNkQDb-teeWFcChfChGmoUu9Eg.PNG.gaebhi/3freeze.png?type=w1 "freeze")
-
-* 석화
-
-![p](https://blogfiles.pstatic.net/MjAxOTA3MjNfNTkg/MDAxNTYzODU4MzYwMjY5.V_XUx3GNT1NdoI06fmUZMbpzTg3jJ-yqegqUWJzN06Ug.ERfMumwd53z2fpWIKx9rywodYOrKbwOSxs1IKwEDpoIg.PNG.gaebhi/4pertrification.png?type=w1 "p")
-
-
+![sample](https://blogfiles.pstatic.net/MjAxOTA4MTJfMTIy/MDAxNTY1NTk0NDczNjk5.Dfo0WwJlpE1zpKVZtSZPh3YuGiZSaZ2coM5YRyEu6pwg.6IfA7OgQ2c4su13hSmGdc_00bOpb3llbsdzh2RhsARog.PNG.gaebhi/how_to_make_smooth_normal.png?type=w1 "sample")
+ - Editor에서 smoothed normal을 만들 오브젝트를 선택하고 menu의 Tools/Build Smoothed Normal을 눌러주면 Asssets/SmoothNormalMesh/ 폴더에 mesh가 생성된다. mesh filter에 넣어주면 위 적용 예시와 같이 각진 부분의 아웃라인이 정상적으로 생성된다.
