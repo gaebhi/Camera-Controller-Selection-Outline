@@ -17,7 +17,7 @@
 * Client : Unity 2017+
 
 ## 2. 이미지
-* Camera Contrller (focus 예시)
+* Camera Controller (focus)
 ![scene2](https://blogfiles.pstatic.net/MjAxOTA4MTRfMTcz/MDAxNTY1NzYzMzYyOTA1.Xe0F0iEyCarF7U4Ix6uuZHkrs79MFwOSJg5g6o1gHaIg.W7UH7bxJLuP23fLnhcmb0TZiaaZ7uirSQdS8JBW0RNAg.PNG.gaebhi/camera.png?type=w1 "S2")
   
 * 적용 예시 - 왼쪽 normal값 이용한 쉐이더, 오른쪽 tangent값 이용한 쉐이더
