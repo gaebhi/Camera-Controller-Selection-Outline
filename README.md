@@ -19,14 +19,13 @@
 ## 2. 이미지
 * 적용 예시 - 왼쪽 normal값 이용한 쉐이더, 오른쪽 tangent값 이용한 쉐이더
 ![scene1](https://blogfiles.pstatic.net/MjAxOTA4MTJfMjUy/MDAxNTY1NTk0NDc0MDIw.970cxN4zPCA2f5PbHrE2MPPmPx0oJ_muZhNyfRDY-vQg.8oxQ1djIHYKxaixAYiInytBLZp5AWoLZV5C8cgo_XFAg.PNG.gaebhi/outline.png?type=w1 "S")
+ 
+* 사용 예시
+![sample](https://blogfiles.pstatic.net/MjAxOTA4MTJfMTIy/MDAxNTY1NTk0NDczNjk5.Dfo0WwJlpE1zpKVZtSZPh3YuGiZSaZ2coM5YRyEu6pwg.6IfA7OgQ2c4su13hSmGdc_00bOpb3llbsdzh2RhsARog.PNG.gaebhi/how_to_make_smooth_normal.png?type=w1 "sample")
 
 * Camera Contrller (focus 예시)
 ![scene2](https://blogfiles.pstatic.net/MjAxOTA4MTRfMTcz/MDAxNTY1NzYzMzYyOTA1.Xe0F0iEyCarF7U4Ix6uuZHkrs79MFwOSJg5g6o1gHaIg.W7UH7bxJLuP23fLnhcmb0TZiaaZ7uirSQdS8JBW0RNAg.PNG.gaebhi/camera.png?type=w1 "S2")
   
- 
-* 사용 예시
-
-![sample](https://blogfiles.pstatic.net/MjAxOTA4MTJfMTIy/MDAxNTY1NTk0NDczNjk5.Dfo0WwJlpE1zpKVZtSZPh3YuGiZSaZ2coM5YRyEu6pwg.6IfA7OgQ2c4su13hSmGdc_00bOpb3llbsdzh2RhsARog.PNG.gaebhi/how_to_make_smooth_normal.png?type=w1 "sample")
 
   Editor에서 smoothed normal을 만들 오브젝트를 선택하고 
   menu의 Tools/Build Smoothed Normal을 눌러주면 Asssets/SmoothNormalMesh/ 폴더에 mesh가 생성된다.  
