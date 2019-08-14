@@ -6,8 +6,8 @@ Material:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: sphere
-  m_Shader: {fileID: 4800000, guid: b70c244183d6acb4d85a220d699d1e71, type: 3}
+  m_Name: Selectable02
+  m_Shader: {fileID: 4800000, guid: 4973ef57ebaa874428d9d1e39e65d81b, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -54,7 +54,7 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - _RampTex:
+    - _texcoord:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
@@ -66,19 +66,22 @@ Material:
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
+    - _MainTexMulti: 1
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
-    - _Outline: 0.9
-    - _OutlineDot: 0
-    - _OutlineExtrusion: 0.1
+    - _Outline: 0
     - _Parallax: 0.02
+    - _RimOffset: 0.6
+    - _RimPower: 100
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _UVSec: 0
     - _ZWrite: 1
+    - __dirty: 1
     m_Colors:
-    - _Color: {r: 0.9485294, g: 0.71837157, b: 0.71837157, a: 1}
+    - _Color: {r: 0.3825692, g: 0.59900963, b: 0.89705884, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _OutlineColor: {r: 0.86764705, g: 0.78510624, b: 0.44020328, a: 1}
+    - _OutlineColor: {r: 0, g: 0, b: 0, a: 1}
+    - _RimColor: {r: 1, g: 0.9310343, b: 0, a: 0}
