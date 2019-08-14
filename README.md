@@ -5,7 +5,7 @@
   - 마우스 왼쪽 클릭 or 한손 터치 : 상하좌우 움직임
   - 마우스 오른쪽 클릭 or 양손 가깝게 터치 : 상하좌우 회전
   - 마우스 휠 or pinch : 줌인/줌아웃
-  - 오브젝트 터치 : 오브젝트로 이동
+  - 오브젝트 터치 : 
   - 줌인/줌아웃에 따른 안개 효과 (포스트 프로세싱)
   
 * Selection Outline Shader
@@ -20,6 +20,7 @@
 * 적용 예시 - 왼쪽 normal값 이용한 쉐이더, 오른쪽 tangent값 이용한 쉐이더
 ![scene1](https://blogfiles.pstatic.net/MjAxOTA4MTJfMjUy/MDAxNTY1NTk0NDc0MDIw.970cxN4zPCA2f5PbHrE2MPPmPx0oJ_muZhNyfRDY-vQg.8oxQ1djIHYKxaixAYiInytBLZp5AWoLZV5C8cgo_XFAg.PNG.gaebhi/outline.png?type=w1 "S")
 
+* Camera Contrller (focus 예시)
 ![scene2](https://blogfiles.pstatic.net/MjAxOTA4MTRfMTcz/MDAxNTY1NzYzMzYyOTA1.Xe0F0iEyCarF7U4Ix6uuZHkrs79MFwOSJg5g6o1gHaIg.W7UH7bxJLuP23fLnhcmb0TZiaaZ7uirSQdS8JBW0RNAg.PNG.gaebhi/camera.png?type=w1 "S2")
   
  
