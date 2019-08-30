@@ -141,7 +141,7 @@ public class CameraController : MonoBehaviour
                         float _touchDeltaMagnitude = (_touch0.position - _touch1.position).magnitude;
                         float _deltaMagnitudeDiff = _prevTouchDeltaMagnitude - _touchDeltaMagnitude;
 
-                        SetCameraZoom(_deltaMagnitudeDiff * ZoomSpeed * m_mobileCorrection);
+                        SetCameraZoom(-_deltaMagnitudeDiff * ZoomSpeed * m_mobileCorrection);
                     }
                 }
 
