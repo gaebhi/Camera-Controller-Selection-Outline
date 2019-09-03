@@ -219,8 +219,8 @@ public class CameraController : MonoBehaviour
 
         Vector3 cameraPos = m_camera.transform.localPosition;
         cameraPos.x = (Mathf.Cos(pitchDeg2Rad) * ((Mathf.Sin(rotateDeg2Rad) * distance) * 1f)) + m_viewPoint.x;
-        cameraPos.y = (Mathf.Sin(pitchDeg2Rad) * distance);
-        cameraPos.z = (Mathf.Cos(pitchDeg2Rad) * ((Mathf.Cos(rotateDeg2Rad) * distance) * -1f)) + m_viewPoint.y;
+        cameraPos.y = (Mathf.Sin(pitchDeg2Rad) * distance) + m_viewPoint.y;
+        cameraPos.z = (Mathf.Cos(pitchDeg2Rad) * ((Mathf.Cos(rotateDeg2Rad) * distance) * -1f)) - m_viewPoint.x;
         m_camera.transform.localPosition = cameraPos;
     }
 
@@ -231,10 +231,10 @@ public class CameraController : MonoBehaviour
 
         Vector2 movedPos = Vector2.zero;
         movedPos.x = _delta.x * (m_zoomValue / (Screen.height * 0.5f));
-        movedPos.y = _delta.y * ((m_zoomValue / (Screen.height * 0.5f)) / Mathf.Sin(pitchDeg2Rad)) * -1;
+        movedPos.y = _delta.y * (m_zoomValue / (Screen.height * 0.5f));
 
-        m_viewPoint.x += (movedPos.x * Mathf.Cos(rotateDeg2Rad)) + (movedPos.y * Mathf.Sin(rotateDeg2Rad));
-        m_viewPoint.y += (movedPos.x * Mathf.Sin(rotateDeg2Rad)) - (movedPos.y * Mathf.Cos(rotateDeg2Rad));
+        m_viewPoint.x += movedPos.x;
+        m_viewPoint.y += movedPos.x;
 
         m_viewPoint.x = Mathf.Clamp(m_viewPoint.x, ViewPositionBound.x, ViewPositionBound.y);
         m_viewPoint.y = Mathf.Clamp(m_viewPoint.y, ViewPositionBound.x, ViewPositionBound.y);
